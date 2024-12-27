@@ -16,13 +16,15 @@ This repository includes code implementations for a wide range of DSA problems a
 
 The aim is to provide simple, clear, and efficient solutions to the fundamental problems that help in mastering DSA concepts. Each assignment is stored in its dedicated folder.
 
-### 📂 Folder Details
+## Folder Structure 🗂️
 
-Each implementation is organized with three essential files:
+Each folder contains three files:
 
-- header.h - Contains structure and function declarations.
-- logic.c - The core logic and functionality of each module.
-- main.c - A testing ground to validate functionality and correctness.
+- `header.h` 📄: Contains structure and function declarations.
+- `logic.c` 🧩: The core logic and functionality of the DSA module.
+- `main.c` 🎮: A testing ground to validate functionality and correctness.
+
+---
 
 ## 🚀 Getting Started
 
