@@ -1,0 +1,35 @@
+Define an ADT ASCII having a Doubly linked list of nodes of digits.
+
+Write the following functions with suitable prototypes for ADT ASCII
+
+init_ASCII() // to initialize the list
+
+ASCII_of( )
+
+/* This function should take a character as an argument and form a linked list of digits in its ASCII value. For example if ‘A’ is passed as a parameter, it should generate a list {6,5} */
+
+traverse() // to display all the elements of the list.
+
+Destroy() //  to destroy the list.
+
+You are free to include more functions.
+
+The skeleton of function main() is given below, use the same by replacing commented statements by actual function calls:
+
+int main() {
+
+ASCII L1;
+
+//call init_ASCII()
+
+// call ASCII_of( )
+
+// call traverse()
+
+//call Destroy()
+
+//call traverse()
+
+return 0;
+
+}

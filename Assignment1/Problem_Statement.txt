@@ -1,0 +1,12 @@
+Write a Menu Driven Program in C to implement the following operations on an array of integers using functions by passing the array and its size to the function. Populate the array elements using rand( ).
+
+
+Operations:
+1. init()
+2. append()
+3. insert_at_index()
+4. remove_at_index()
+5. display()
+6. max() /min () // Displays maximum/minimum element of an array
+7. reverse() //Reverse the elements of array
+8. merge() // Merges two arrays
